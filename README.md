@@ -1,7 +1,7 @@
  ### Oilá! Sou a Bianca Daniella
 
-- 🔭 Hoje trabalho com Fullstack
-- 🌱 Estudando Node.js e React
+- 🔭 Hoje trabalho como QE
+- 🌱 Estudando javinha e automações
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Bixxxcoito
 
